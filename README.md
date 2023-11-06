@@ -3,8 +3,7 @@
 # This is Jieun, a software developer 👩‍💻
 ### You can call me Jeanine 🤟🏽
 I am currently in my senior year pursuing a bachelor's degree in computer science at Ajou University, South Korea. I am passionate about both mobile app development and web development. Overall, I am a front end developer, but I don't want to limit myself to just the front end development. I am kind of a person who never stops learning new things and moving forward with my life.
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JieunHan17&show_icons=true&theme=onedark)
+
 
 ## What Programming Languages I Can Use?
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
